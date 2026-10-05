@@ -216,13 +216,29 @@ Therefore:
 Observed relationships should be interpreted as associations in the dataset, not as proof of causation.
 
 Payment difficulty rates calculated across payment or delinquency categories are based on customers associated with those categories, and customers may appear in multiple categories.
-📷 Dashboard Preview
-Screenshots of all four dashboard pages are available in the screenshots folder.
-Dashboard Pages
-1. Executive Overview
-2. Customer & Credit Risk Profile
-3. Loan & Repayment Performance
-4. Delinquency & Credit Behavior
+# 📷 Dashboard Preview
+
+## 1. Executive Overview
+
+![Executive Overview](screenshots/executive-overview.png)
+
+---
+
+## 2. Customer & Credit Risk Profile
+
+![Customer & Credit Risk Profile](screenshots/customer-credit-risk.png)
+
+---
+
+## 3. Loan & Repayment Performance
+
+![Loan & Repayment Performance](screenshots/loan-repayment-performance.png)
+
+---
+
+## 4. Delinquency & Credit Behavior
+
+![Delinquency & Credit Behavior](screenshots/delinquency-credit-behavior.png)
 📥 Power BI File
 The complete .pbix file is available through Google Drive:
 Download / Access Power BI Dashboard
